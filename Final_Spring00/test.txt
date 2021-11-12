@@ -4,8 +4,7 @@ aaaa
 soojin test2
 seogangmin test commit2
 <<<<<<< HEAD
-bongbong test commit
-aa
+
 =======
 
 bohee test3
